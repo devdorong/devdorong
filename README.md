@@ -14,6 +14,10 @@
   #### 💾 조금씩 나아지는 과정을 즐기며, 끝까지 완주하는 끈기를 소중히 여깁니다.<br/>
   #### :mortar_board: 대구대학교 컴퓨터공학과 학사
   <br/>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:dev.dorong@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.dorong@gmail.com"> </a>
+         <a href=https://www.notion.so/About-Me-2069fbf8131280f899b0c956db8b84ff?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/About-Me-2069fbf8131280f899b0c956db8b84ff?source=copy_link"> </a>
+          </div>  <br> 
   <br/>
   
   ## 🧱 Tech Stack
@@ -60,6 +64,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdorong)](https://github.com/devdorong/github-readme-stats)
   
 </div>
+
 
 <!--
 **Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
