@@ -13,6 +13,7 @@
   #### :raising_hand: 함께 일하는 사람들의 이야기에 진심으로 귀 기울이며, 필요할 땐 명확한 의견을 전달하는 소통의 균형을 중요하게 생각합니다.<br/>
   #### 💾 조금씩 나아지는 과정을 즐기며, 끝까지 완주하는 끈기를 소중히 여깁니다.<br/>
   #### :mortar_board: 대구대학교 컴퓨터공학과 학사
+  #### ✉️ dev.dorong@gmail.com
   <br/>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:dev.dorong@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.dorong@gmail.com"> </a>
