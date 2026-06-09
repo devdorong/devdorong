@@ -87,9 +87,9 @@
   <br/>-->
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devdorong)
+  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devdorong)
   <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=devdorong)]
+  ![GitHub Streak](https://streak-stats.demolab.com?user=devdorong)
   
 </div>
 
