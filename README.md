@@ -92,6 +92,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdorong)](https://github.com/devdorong/github-readme-stats)
   <br/>
   [![GitHub Streak](https://streak-stats.demolab.com?user=devdorong)]
+  <br/>
+  [![GitHub Streak](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devdorong)]
   
 </div>
 
