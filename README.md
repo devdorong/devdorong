@@ -88,7 +88,7 @@
   
   ## 🧑‍💻 Github Stats
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devdorong)
+  ![Anurag's GitHub stats](https://github-readme-stats.shion.dev/api?username=devdorong&show_icons=true)
   <br/>
   ![GitHub Streak](https://streak-stats.demolab.com?user=devdorong)
   
